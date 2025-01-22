@@ -1,0 +1,9 @@
+best case scenario-O(n)
+
+worst case scenario-O(n^2)
+
+1. Compare adjacent elements: You start at the beginning of the array and compare the first two elements.
+2. Swap if necessary: If the first element is greater than the second element, swap them.
+3. Move to the next pair: Move to the next pair of elements (the second and third elements) and repeat the comparison and swap process.
+4. Repeat the process: After reaching the end of the array, you repeat the same steps for the entire array again, but each time you can ignore the last element since it will already be in its correct place (hence the "bubble" effect).
+5. Continue until sorted: The process continues until no more swaps are needed, which means the array is sorted.
