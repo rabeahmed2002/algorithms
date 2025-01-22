@@ -1,0 +1,175 @@
+Sorting Algorithms:
+
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Counting Sort
+Radix Sort
+Bucket Sort
+Shell Sort
+TimSort (used in Python's sort and Java's Arrays.sort)
+
+Search Algorithms:
+
+Linear Search
+Binary Search
+Ternary Search
+Jump Search
+Exponential Search
+Interpolation Search
+
+Graph Algorithms:
+
+Breadth-First Search (BFS)
+Depth-First Search (DFS)
+Dijkstra’s Algorithm (Shortest Path)
+Bellman-Ford Algorithm (Shortest Path)
+Floyd-Warshall Algorithm (All-Pairs Shortest Path)
+A* Algorithm (Pathfinding)
+Prim’s Algorithm (Minimum Spanning Tree)
+Kruskal’s Algorithm (Minimum Spanning Tree)
+Topological Sort (DAG Ordering)
+Tarjan’s Algorithm (Strongly Connected Components)
+Kosaraju’s Algorithm (Strongly Connected Components)
+Edmonds-Karp Algorithm (Maximum Flow)
+Ford-Fulkerson Algorithm (Maximum Flow)
+Hopcroft-Karp Algorithm (Maximum Bipartite Matching)
+Johnson’s Algorithm (Shortest Path for Sparse Graphs)
+
+Dynamic Programming (DP) Algorithms:
+
+Longest Common Subsequence (LCS)
+Longest Increasing Subsequence (LIS)
+Knapsack Problem (0/1 Knapsack, Fractional Knapsack)
+Matrix Chain Multiplication
+Floyd-Warshall Algorithm (Revisited for DP)
+Bellman-Ford Algorithm (Revisited for DP)
+Coin Change Problem
+Subset Sum Problem
+Rod Cutting Problem
+Egg Dropping Problem
+Palindrome Partitioning
+Edit Distance (Levenshtein Distance)
+Optimal Binary Search Tree
+Wildcard Matching
+Word Break Problem
+
+Greedy Algorithms:
+
+Activity Selection Problem
+Huffman Coding (Compression)
+Prim’s Algorithm (Revisited)
+Kruskal’s Algorithm (Revisited)
+Job Scheduling Problem
+Fractional Knapsack Problem
+Greedy Coloring (Graph Coloring)
+
+Divide and Conquer Algorithms:
+
+Merge Sort (Revisited)
+Quick Sort (Revisited)
+Binary Search (Revisited)
+Strassen’s Matrix Multiplication
+Karatsuba Algorithm (Fast Multiplication)
+Closest Pair of Points
+Maximum Subarray Problem (Kadane’s Algorithm, Divide and Conquer version)
+
+Mathematical Algorithms:
+
+Greatest Common Divisor (GCD) (Euclidean Algorithm)
+Least Common Multiple (LCM)
+Sieve of Eratosthenes (Prime Numbers)
+Modular Exponentiation
+Extended Euclidean Algorithm
+Fast Fourier Transform (FFT)
+Chinese Remainder Theorem
+Fermat’s Little Theorem
+Wilson’s Theorem
+Discrete Logarithm Problem
+Miller-Rabin Primality Test
+Pollard’s Rho Algorithm (Factorization)
+
+String Algorithms:
+
+Knuth-Morris-Pratt (KMP) Algorithm (Pattern Matching)
+Rabin-Karp Algorithm (Pattern Matching)
+Z Algorithm (Pattern Matching)
+Aho-Corasick Algorithm (Pattern Matching)
+Suffix Tree Construction
+Suffix Array Construction
+Manacher’s Algorithm (Longest Palindromic Substring)
+Trie Construction (Prefix Tree)
+Boyer-Moore Algorithm (Pattern Matching)
+Longest Common Substring
+Edit Distance Algorithm (Revisited)
+
+Number Theory and Cryptography:
+
+RSA Algorithm
+Diffie-Hellman Key Exchange
+Elliptic Curve Cryptography (ECC)
+SHA Algorithms (Secure Hashing Algorithms)
+MD5 (Not secure but historically important)
+Caesar Cipher
+Vigenère Cipher
+Hill Cipher
+
+Backtracking Algorithms:
+
+N-Queens Problem
+Sudoku Solver
+Rat in a Maze
+Word Search in a Grid
+Hamiltonian Path and Cycle
+Knight’s Tour
+Subset Generation
+Permutations and Combinations
+
+Bit Manipulation Algorithms:
+
+Count Set Bits (Hamming Weight)
+Check if a Number is a Power of Two
+Find the Only Non-Repeating Element
+Swap Numbers Without Temp Variable
+Reverse Bits
+Gray Code Generation
+XOR Queries
+
+Miscellaneous Algorithms:
+
+Union-Find (Disjoint Set Union) (Used in Kruskal’s Algorithm)
+Sliding Window Technique
+Two Pointer Technique
+Reservoir Sampling
+Fisher-Yates Shuffle (Random Shuffle)
+KMP-Based String Search
+Reservoir Sampling
+Flood-Fill Algorithm
+Fast Inverse Square Root (Quake III)
+
+Machine Learning and AI-Related Algorithms:
+
+Gradient Descent
+K-Means Clustering
+Decision Trees
+Naive Bayes
+Support Vector Machines (SVMs)
+Backpropagation (Neural Networks)
+A* Search (Pathfinding)
+Minimax Algorithm (Game Trees)
+
+Data Compression Algorithms:
+
+Run-Length Encoding
+Huffman Coding (Revisited)
+Lempel-Ziv-Welch (LZW) Compression
+
+Parallel and Distributed Algorithms:
+
+MapReduce
+Paxos Algorithm (Consensus)
+Raft Algorithm (Consensus)
+MPI (Message Passing Interface)
